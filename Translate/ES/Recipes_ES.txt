@@ -1,0 +1,17 @@
+Recipes_ES = {
+    Recipe_Make_Side_Spare_Tire_Mount = "Hacer Soporte para neumático de repuesto lateral",
+	Recipe_Make_Roof_Spare_Tire_Mount = "Hacer Soporte para neumático de repuesto de techo",
+	Recipe_Make_P19A_Side_Window = "Hacer Ventana lateral",
+	Recipe_Make_P19A_Side_Window_1 = "Hacer Ventana lateral",
+	Recipe_Make_P19A_Windshield = "Hacer Parabrisas",
+	Recipe_Make_P19A_Door = "Hacer Puerta",
+	Recipe_Make_P19A_Hood = "Hacer Capó",
+	Recipe_Make_P19A_Trunk_Lid = "Hacer Tapa del maletero 2",
+	Recipe_Make_P19A_Roof_Hatch = "Hacer Escotilla de techo",
+	Recipe_Make_P19A_Door_Armor = "Hacer Armadura de puerta",
+	Recipe_Make_P19A_Windshield_Armor = "Hacer Armadura de parabrisas improvisada",
+	Recipe_Make_P19A_Roofrack = "Hacer Portaequipajes",
+	Recipe_Make_P19A_Makeshift_Rear_Left_Fender = "Hacer Guardabarros trasero izquierdo improvisado",
+	Recipe_Make_P19A_Makeshift_Rear_Right_Fender = "Hacer Guardabarros trasero derecho improvisado",
+	
+} 

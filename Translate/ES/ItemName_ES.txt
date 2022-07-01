@@ -1,0 +1,23 @@
+ItemName_ES = {
+   ItemName_Base.V100Tire2 = "Neumático RunFlat",
+   ItemName_Base.P19ACarFrontDoor2 = "Puerta P19A",
+   ItemName_Base.P19ARoofHatch2  = "Escotilla de techo P19A",
+   ItemName_Base.P19ABigTrunk2 = "Maletero Grande P19A",
+   ItemName_Base.P19ASmallTrunk2 = "Maletero Pequeño P19A",
+   ItemName_Base.P19ARoofrack1_Item = "Portaequipajes P19A",
+   ItemName_Base.P19ACarSeat2 = "Asiento P19A",
+   ItemName_Base.P19AEngineDoor2 = "Capó P19A",
+   ItemName_Base.P19ATrunkDoor2 = "Tapa del maletero 2 P19A",
+   ItemName_Base.P19AWindshield2 = "Parabrisas P19A",
+   ItemName_Base.P19ASideWindow2 = "Ventana lateral P19A",
+   ItemName_Base.P19ACarFrontDoorArmor1_Item = "Armadura de puerta delantera P19A",
+   ItemName_Base.P19AWindshieldArmor1_Item = "Armadura de parabrisas improvisada P19A",
+   ItemName_Base.P19AFenderLeft1_Item = "Guardabarros trasero izquierdo P19A",
+   ItemName_Base.P19AFenderLeft2_Item = "Guardabarros trasero izquierdo improvisado P19A",
+   ItemName_Base.P19AFenderRight1_Item = "Guardabarros trasero derecho P19A",
+   ItemName_Base.P19AFenderRight2_Item = "Guardabarros trasero derecho improvisado P19A",
+   ItemName_Base.P19AFenderRight3_Item = "Guardabarros trasero derecho dañado P19A",
+   ItemName_Base.P19ASpareMount1_Item = "Soporte para neumático de repuesto lateral P19A",
+   ItemName_Base.P19ASpareMount2_Item = "Soporte para neumático de repuesto de techo P19A",
+   
+}
